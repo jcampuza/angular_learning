@@ -1,0 +1,25 @@
+{
+  "name": "angular_learning",
+  "version": "1.0.0",
+  "description": "Learning to use angular",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-resource": "^1.5.3",
+    "angular-route": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcampuza/angular_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcampuza/angular_learning/issues"
+  },
+  "homepage": "https://github.com/jcampuza/angular_learning#readme"
+}
